@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+     color:white;
+}
+
+input{
+    
+    border-radius: 6px;
+    background:  #34495e;
+    border-color:  #34495e;
+       
+
+}
+
+.boton{
+   background: #34495e;
+   border-radius: 6px;
+   padding: 5px;
+   margin: 10px;
+  
+}
+
+.tabla{
+  
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+     background: #34495e;
+}
+
+.tabla tr{
+    
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+}
+.tabla th{
+    
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+}
+
+.tabla tr{
+    
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+}
+
+.tabla tr td{
+  
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+}
